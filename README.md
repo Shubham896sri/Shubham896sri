@@ -2,8 +2,8 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning DSA & Java
 - 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me drp your massage.
-- 
+-  How to reach me drop your massage.
+
   
 
 <!---
